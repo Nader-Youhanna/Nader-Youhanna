@@ -1,6 +1,8 @@
-<h1 align="center"> Hi there 👋</h1>
+<h2 align="center"> Hi there 👋, I'm Nader Youhanna Khalil</h2>
 
-My name is Nader Youhanna Khalil. I'm a Computer Engineering student and a tech geek who is interested in AI.
+ 👨🏻‍💻 About me
+ -------------
+I'm a Computer Engineering student and a tech geek who is self motivated, curious, and eager to learn. I am fascinated by how things work and I love challenges. I am currently interested in AI.
 <br/>
 
 
