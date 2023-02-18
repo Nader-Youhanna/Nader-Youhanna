@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there 👋, I'm Nader Youhanna Khalil </h1>
+<h1 align="center"> Hi there 👋</h1>
 
-<div align="center"> I'm a Computer Engineering student who is interested in AI </div>
+My name is Nader Youhanna Khalil. I'm a Computer Engineering student and a tech geek who is interested in AI.
 <br/>
 
 
@@ -33,18 +33,14 @@ Here are some ideas to get you started:
 :earth_africa: Connect with me
 -------------------
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-
-<br/>
+[<img src="https://img.icons8.com/fluency/48/000000/facebook.png" />][facebook]
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
+[<img src="https://img.icons8.com/color/48/000000/gmail--v1.png" />][gmail]
 
 [facebook]: https://www.facebook.com/nader.youhanna/
 [gmail]: naderyouhanna@gmail.com
 [linkedin]: https://www.linkedin.com/in/nader-youhanna-6637821a8/
-
-<br/>
 
 
 :hammer_and_wrench: Languages and Tools
@@ -76,5 +72,17 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 </div>
+
+<br/>
+
+# :fire: My Stats:
+
+<p align="left">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Nader-Youhanna&show_icons=true&theme=radical" />
+
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nader-Youhanna&theme=onedark&layout=compact" />
+
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nader-Youhanna&theme=onedark&hide_border=true" />
+</p>
 
 
