@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-# :fire: My Stats:
+# :fire: My Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Nader-Youhanna&show_icons=true&theme=radical" />
