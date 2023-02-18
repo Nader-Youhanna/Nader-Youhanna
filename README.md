@@ -78,11 +78,8 @@ Here are some ideas to get you started:
 # :fire: My Stats:
 
 <p align="left">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Nader-Youhanna&show_icons=true&theme=radical" />
-
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nader-Youhanna&theme=onedark&layout=compact" />
-
-  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nader-Youhanna&theme=onedark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nader-Youhanna&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nader-Youhanna&theme=onedark&layout=compact" />
 </p>
 
 
